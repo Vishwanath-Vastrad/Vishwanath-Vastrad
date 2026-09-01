@@ -1,1 +1,1 @@
-
+<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=BC8CFF&width=435&lines=Hi%2C+I'm+Vishwanath+Vastrad" alt="Typing SVG"/> </a>
